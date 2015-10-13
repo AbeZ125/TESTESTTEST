@@ -21,9 +21,9 @@ public class michael3 {
 
 
 	public static void main (String[] args) {
-	System.out.println("player1 enter name!: ");
+	System.out.println("pimp one enter name!: ");
 	player1 = keyboard.nextLine();
-	System.out.println("Player2 enter name!: ");
+	System.out.println("player two enter name!: ");
 	player2 = keyboard.nextLine();
 	drawBoard();
 	eraseBoard();
